@@ -60,10 +60,11 @@ packages:
   ffmpeg_kit_flutter_platform_interface:
     dependency: "direct main"
     description:
-      name: ffmpeg_kit_flutter_platform_interface
-      sha256: addf046ae44e190ad0101b2fde2ad909a3cd08a2a109f6106d2f7048b7abedee
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "1de580c4273991a24cb9f987d462936307a776ce"
+      url: "https://github.com/syahrayhan/ffmpeg_kit_flutter_platform_interface.git"
+    source: git
     version: "0.2.1"
   flutter:
     dependency: "direct main"
